@@ -83,3 +83,5 @@ Resulting .exe will be in the dist/ folder.
 
 🧑‍🎨 Credits
 Developed by Arif Assets from OpenGameArt and Pixabay
+![Screenshot 2025-07-06 105950](https://github.com/user-attachments/assets/e0a51691-99c6-4459-987b-98ced1acdeb6)
+
